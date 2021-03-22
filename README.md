@@ -31,11 +31,11 @@ Ultimaker Cura 4.8.0
 - Print Temperature: 215 degrees C
  
 # Preview
-![Preview of tray](extensionsstorage\preview.jpg "Preview of tray")
-![Preview of metric_1-4drive_deep+shallow](metric_1-4drive_deep+shallow\preview.jpg "Preview of metric_1-4drive_deep+shallow")
-![Preview of metric_3-8drive_deep+shallow](metric_3-8drive_deep+shallow\preview.jpg "Preview of metric_3-8drive_deep+shallow")
-![Preview of metric_3-8drive_hex](metric_3-8drive_hex\preview.jpg "Preview of metric_3-8drive_hex")
-![Preview of sae_1-2drive_shallow](sae_1-2drive_shallow\preview.jpg "Preview of sae_1-2drive_shallow")
-![Preview of sae_1-4drive_deep+shallow](sae_1-4drive_deep+shallow\preview.jpg "Preview of sae_1-4drive_deep+shallow")
-![Preview of sae_3-8drive_deep+shallow](sae_3-8drive_deep+shallow\preview.jpg "Preview of sae_3-8drive_deep+shallow")
-![Preview of sae_3-8drive_hex](sae_3-8drive_hex\preview.jpg "Preview of sae_3-8drive_hex")
+![Preview of tray](extensionsstorage/preview.jpg "Preview of tray")
+![Preview of metric_1-4drive_deep+shallow](metric_1-4drive_deep+shallow/preview.jpg "Preview of metric_1-4drive_deep+shallow")
+![Preview of metric_3-8drive_deep+shallow](metric_3-8drive_deep+shallow/preview.jpg "Preview of metric_3-8drive_deep+shallow")
+![Preview of metric_3-8drive_hex](metric_3-8drive_hex/preview.jpg "Preview of metric_3-8drive_hex")
+![Preview of sae_1-2drive_shallow](sae_1-2drive_shallow/preview.jpg "Preview of sae_1-2drive_shallow")
+![Preview of sae_1-4drive_deep+shallow](sae_1-4drive_deep+shallow/preview.jpg "Preview of sae_1-4drive_deep+shallow")
+![Preview of sae_3-8drive_deep+shallow](sae_3-8drive_deep+shallow/preview.jpg "Preview of sae_3-8drive_deep+shallow")
+![Preview of sae_3-8drive_hex](sae_3-8drive_hex/preview.jpg "Preview of sae_3-8drive_hex")
